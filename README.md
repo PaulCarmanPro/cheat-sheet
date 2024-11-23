@@ -1,6 +1,6 @@
 # cheat-sheet
 
-Unfortunately, I use to create cheat sheets. The file is quite large and takes a long time to load on a Raspberry.
+Unfortunately, I use bloated and buggy libreoffice to create cheat sheets. The file takes a long time to load on a Raspberry.
 
 ### ToDo
 
