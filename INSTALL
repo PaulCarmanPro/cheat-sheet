@@ -1,6 +1,0 @@
-#! /bin/bash
-
-# cheat-sheet/INSTALL
-
-dSource="$(dirname -- "${BASH_SOURCE[0]}")"
-MakeLinks "$HOME/0" "$dSource/0"
