@@ -2,9 +2,11 @@
 
 Unfortunately, I use bloated and buggy libreoffice to create cheat sheets. The file takes a long time to load on a Raspberry.
 
+As usual, you may copy my cheat sheets and have them in your posession and do as you please with them . And you may redistribute them in any original or moidifed form where the data is free. I hope that you will creeate another branch and offer edits of any kind you deep appripriate so that the world's best cheat seats can be created and mainttained. It is my intent to keep these cheat sheets in an editable form so that the world may easily improve them.
+ 
 ### ToDo
 
-- [ ] Create an emacs mode for cheat sheets.
+- [ ] Create an emacs mode for cheat sheets . Convert these cheat sheets into raw text containing column formatting inforation unlike markdown or markup because the formmatting data itself not disappar from the text to improve the legibilitty of the content.
 
 emacs proposed columnizer mode: allow column declarations which apply to following lines.
 Want to focus upon colors, but emcas does not segregate color from font.
